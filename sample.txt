@@ -1,3 +1,6 @@
 Text 1
 mac os editor
-mac os open file from terminal with default text editor
+mac os open filwith default text editor
+
+
+v3
